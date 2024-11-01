@@ -1,0 +1,175 @@
+.note_completed .note_icon{
+    display: block;
+    color: green;
+    
+}
+.note_activ .note_icon{
+     display: block;
+    color: red;
+    
+}
+.submit_div.submit_open_worpper.first{
+     border: solid 2px #000;
+}
+input_note.input_note_close_pri.open{
+    border: solid 0px #000;
+}
+ .note_icon{
+display: none;
+    
+}
+.note_icon{
+    z-index: 10000;
+        position: absolute; 
+    background-color: #fff;
+    border: solid 2px #000;
+    border-radius: 25px;
+    padding: 5 5;
+}
+.input_note{
+    width: 100%;
+    flex-grow: 1;
+    text-align: center;
+    line-height: 1.2;
+    padding: 10px;
+    display: block;
+}
+.input_note{
+    margin: 3px;
+   // border-radius: 10px;
+}
+.notes .new_note{
+    border-color: #477496;
+}
+.editor_prev.nutactiv{
+    display: none;
+}
+.input_note.input_note_close_pri.open{
+        background-color: #fff;
+    border: solid 2px #000;
+}
+.stustus_activ .note_icon{
+    color: red;
+}
+.stustus_completed .note_icon{
+    color: green;
+}
+.stustus_empty .note_icon{
+    color: #000;
+}
+
+.submit_open_worpper.nutactiv{
+    display: none;
+}
+.rtl .submit_open_worpper, .nodes_worpper{
+ width: 100px;
+  position: fixed;
+    top: 10px;
+    left: 10px;
+    right: auto;
+}
+.submit_open_worpper, .rtl .nodes_worpper{
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    left: auto;
+}
+.nodes_worpper {
+    display: none;
+}
+.nodes_worpper.activ{
+        background-color: #fff!important;
+    z-index: 100000000000000000!important;
+       padding: 3 15!important;
+    border: solid 3px #000!important;
+    display: block;
+}
+.input_note_open{
+    border-color: transparent!important;
+    background-color: transparent!important;
+}
+.notes{
+    z-index: 10000000;
+    margin: 5px;
+    background-color: #fff!important;
+      padding: 5px;
+   // border-radius: 25px;
+    font-family: alef!important;
+    max-width: 300px;
+}
+.notes input,.notes textarea, .notes select,.notes button {
+     font-family: alef!important;
+}
+
+.note_hover{
+    border: solid 1px red;
+}
+.note_2{
+    border: solid 1px #00000054;
+}
+.note_1{
+      border: solid 1px green;
+}
+.submit_div{
+    display: flex;
+}
+.submit_div > input{
+    flex-grow: 1;
+        -webkit-appearance: button-bevel;
+}
+.editor_prev .input_note:hover{
+    border: solid 1px #000;
+}
+.notes.status_completed{
+           background-color: #31933821!important;
+   
+}
+
+.notes.status_activ{
+    background-color: #fbf1f1!important;
+}
+textarea.input_note{
+        background-color: transparent;
+    overflow: hidden;
+    height: 57px;
+    border-color: #00000024;
+}
+.notes .input_botton, .editor_prev .input_botton {
+    background-color: #0000003b!important;
+}
+textarea.new_note{
+     background-color: #fff;
+}
+.rtl .editor_prev{ 
+    border-right-width: 1px;
+    right: auto;
+     left: 0px;
+
+}
+.editor_prev input{
+    background-color: #fff;
+    border: solid 1px #000;
+  //  border-radius: 5px;
+      -webkit-appearance: button!important;
+}
+.note_title p{
+    text-align: center;
+       margin: 1px;
+    font-size: 0.6em;
+    
+}
+
+.editor_prev{
+    padding: 5px;
+    border: solid 0px #000;
+    border-left-width: 1px;
+    background-color: #fff;
+        left: auto;
+     right: 0px;
+
+    position: fixed;
+    width: 15%;
+    height: 100%;
+    z-index: 10000;
+    overflow-y: scroll;
+}

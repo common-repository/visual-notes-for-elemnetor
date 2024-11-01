@@ -1,0 +1,12 @@
+body{
+ cursor: crosshair;
+}
+.notes.fixed{
+    position:  absolute;
+    z-index:  100000000000000000000000000000;
+    border: solid 2px #000;
+}
+#wpadminbar #wp-admin-bar-note_icon .ab-icon:before {
+    content: "\f464";
+    top: 3px;
+}

@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: elementor_edit_preview\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-16 01:17+0000\n"
+"PO-Revision-Date: 2018-08-16 01:18+0000\n"
+"Last-Translator: donateus_admin <yosale0099@gmail.com>\n"
+"Language-Team: עִבְרִית\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: elementor-edit-preview.php:68 elementor-edit-preview.php:108
+msgid "completed"
+msgstr "הושלמה"
+
+#: elementor-edit-preview.php:69 elementor-edit-preview.php:109
+msgid "activ"
+msgstr "פעילה"
+
+#: elementor-edit-preview.php:70 elementor-edit-preview.php:110
+msgid "empty"
+msgstr "ריקה"
+
+#: elementor-edit-preview.php:76 elementor-edit-preview.php:121
+msgid "Save"
+msgstr "שמור"
+
+#: elementor-edit-preview.php:77 elementor-edit-preview.php:122
+msgid "Close"
+msgstr "סגור"
+
+#: elementor-edit-preview.php:78 elementor-edit-preview.php:123
+msgid "Add note"
+msgstr "הוסף הערה"
+
+#: elementor-edit-preview.php:79 elementor-edit-preview.php:124
+msgid "Reply"
+msgstr "השב"
+
+#: elementor-edit-preview.php:80 elementor-edit-preview.php:125
+msgid "Completed"
+msgstr "הערה הושלמה"
+
+#: elementor-edit-preview.php:81 elementor-edit-preview.php:126
+msgid "Delete"
+msgstr "מחק"
+
+#: elementor-edit-preview.php:127
+msgid "Open"
+msgstr "פתח"
+
+#: elementor-edit-preview.php:128 elementor-edit-preview.php:129
+msgid "Note from: "
+msgstr "הערה מאת: "
+
+#: elementor-edit-preview.php:130
+msgid "Open page"
+msgstr "פתח דף"
+
+#: elementor-edit-preview.php:131
+msgid "collaps"
+msgstr "מזער "
+
+#: elementor-edit-preview.php:133
+msgid "Note status: "
+msgstr "סטטוס הערה: "
+
+#. Name of the plugin
+#. Description of the plugin
+msgid "elementor_edit_preview"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/elementorformpplus/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Tziki Trop"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://pooslestudio.co.il/"
+msgstr ""
